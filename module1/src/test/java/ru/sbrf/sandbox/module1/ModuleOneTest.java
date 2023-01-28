@@ -16,4 +16,5 @@ public class ModuleOneTest {
 		ModuleOne moduleOne = new ModuleOne();
 		Assert.assertEquals(moduleOne.method2(), "METHOD 2");
 	}
+	
 }
