@@ -25,15 +25,8 @@ docker run \
 
 ### Go to sonarqube
 
+<p>
 http://host:9000
 
+<p>
 default user/pass - admin/admin
-
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
